@@ -108,7 +108,3 @@ Western Governors University Salt Lake City, UT
 •	Computer Hacking Forensic Investigator v8 V7 (Lapsed, In the process of renewing)
 •	Certified Ethical Hacker, CEH V7 (Lapsed, In the process of renewing)
 
-- 🌱 I’m currently learning Microsoft Information Protection and Compliance Administrator
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
