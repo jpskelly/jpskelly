@@ -105,6 +105,5 @@ Western Governors University Salt Lake City, UT
 
 ## Certs that need to be renewed
 •	Cisco CCENT
-•	Computer Hacking Forensic Investigator v8 V7 (Lapsed, In the process of renewing)
-•	Certified Ethical Hacker, CEH V7 (Lapsed, In the process of renewing)
-
+•	Computer Hacking Forensic Investigator v8 V7
+•	Certified Ethical Hacker, CEH V7
