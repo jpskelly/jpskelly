@@ -4,28 +4,26 @@ Motivated, personable IT professional with multiple college degrees and a succes
 
 Skills Summary
 
-* Problem Management * BigFix * PowerShell scripting * AWS, GCP & Azure
-	Root Cause Analysis
-	Problem Solving
-	Queue management
-	Server Migration & Consolidation
-		 OS Upgrades
-	Active Directory
-	Entra AD
-	DFS & DFSR
-	Windows File Sharing (SMB)
-	Windows server up to 2022, Client up to 11
-	Audit asset		 OS Patching
-	 OS Compliance
-	Documentation
-	Windows Clusters
-	NFS of Windows
-	ISCSI
-	PKI
-	VMware
-	Hyper-V
-	Hardware Repair
-	Server Lifecycle
+* Problem Management, Change Managent & Root Cause management
+* Documentation
+* BigFix
+* PowerShell scripting
+* AWS, GCP & Azure
+* Server Migration & Consolidation
+* OS Upgrades
+* Active Directory & Entra AD
+* DFS & DFSR
+* Windows File Sharing (SMB)
+* Windows server
+* Windows Client
+* OS Patching & Compliance
+* Windows Clusters
+* NFS & ISCSI on Windows
+* PKI
+* VMware
+* Hyper-V
+* Hardware Repair
+* Server Lifecycle
 
 **jpskelly/jpskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
