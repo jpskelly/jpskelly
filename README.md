@@ -28,7 +28,7 @@ Motivated, personable IT professional with multiple college degrees and a succes
 
 ## 🔭 Professional Experience
 
-IT Engineer III
+####IT Engineer III
 
 MoneyGram Minneapolis, MN
 2017 – Present
@@ -44,7 +44,7 @@ MoneyGram Minneapolis, MN
 *	Migration of data from on prem servers to AWS FSX and S3 storage
 
 
-Systems Engineer
+####Systems Engineer
 
 IBM Minneapolis, MN
 2002 – 2016
@@ -67,7 +67,7 @@ IBM Minneapolis, MN
 *	Participated in resolving many Critical system outages requiring 24/7 work to bring them online (Microsoft Severity A/ IBM CRIT SIT).
 *	Active Directory Domain Admin role for Honeywell and United Launch Alliance.
 
-Senior Network Specialist
+####Senior Network Specialist
 
 Honeywell Minneapolis, MN
 *	Migrated file shares from Novell Netware and PC NFS servers to Windows file shares on a Windows clustered file server, migrating rights to Active Directory accounts.
@@ -106,7 +106,7 @@ Western Governors University Salt Lake City, UT
 * VMware VCP 6
 * G2700
 
-## Certs that need to be renewed
+## Certifications that need to be renewed
 * Cisco CCENT
 * Computer Hacking Forensic Investigator v8 V7
 * Certified Ethical Hacker, CEH V7
