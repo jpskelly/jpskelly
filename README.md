@@ -110,3 +110,7 @@ Western Governors University Salt Lake City, UT
 * Cisco CCENT
 * Computer Hacking Forensic Investigator v8 V7
 * Certified Ethical Hacker, CEH V7
+* AWS Certified Cloud Practitioner
+* AWS Certified SysOps Administrator - Associate
+* AWS Certified Developer - Associate
+* AWS Certified Solutions Architect - Associate
