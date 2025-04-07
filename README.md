@@ -2,14 +2,10 @@
 Experienced IT Professional
 
 Motivated, personable IT professional with multiple college degrees and a successful record of resolving mission critical IT problems for large businesses.
-
 Talent for quickly mastering new technology.
-
 Able to demystify complex IT issues for non-technical people. 
-
 Accustomed to handling sensitive, confidential records, including ITAR, PII, HIPAA and PCI-DSS. 
-
-Flexible and versatile easily transcends cultural differences, work effectively with global resources. Excellent team-building skills.
+Flexible and versatile able to transcend cultural differences, work effectively with global resources. Excellent team-building skills.
 
 ## 🛠 Technology Stack
 
