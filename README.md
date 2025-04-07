@@ -15,6 +15,7 @@ Motivated, personable IT professional with multiple college degrees and a succes
 * Active Directory & Entra AD
 * DFS & DFSR
 * Windows File Sharing (SMB)
+* Citrix on prem & Citrix DaaS hybrid. 
 * Windows server
 * Windows Client
 * OS Patching & Compliance
@@ -32,7 +33,7 @@ Motivated, personable IT professional with multiple college degrees and a succes
 
 MoneyGram Minneapolis, MN
 2017 – Present
-*	Supported a Windows environment full time at MoneyGram
+*	Supported a multiple domain Windows environment full time at MoneyGram
 *	Mixture of Dell, Cisco B and C series, VMware, AWS EC2 and GCP
 *	Cloud Migration
 *	Created Server images for both On Prem and AWS server
@@ -41,7 +42,8 @@ MoneyGram Minneapolis, MN
 *	Citrix One Prem and DAAS
 *	Datacenter work including Rack/Unrack, Out of band management, Redundant power configuration
 *	Created Powershell scripts for multiple internal teams to assist with various tasks
-*	Migration of data from on prem servers to AWS FSX and S3 storage
+*	Migration of data from on prem servers to cloud serves, AWS FSX and S3 storage
+*	Migrated Citrix on prem to Citrix DaaS in AWS, Publishing Apps, Shared Desktop, and Dedicated VDI machines.
 
 
 #### Systems Engineer
