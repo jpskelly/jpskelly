@@ -5,7 +5,7 @@ Motivated, personable IT professional with multiple college degrees and a succes
 
 Talent for quickly mastering new technology.
 
-Demystify complex IT issues to non-technical people. 
+Able to demystify complex IT issues for non-technical people. 
 
 Accustomed to handling sensitive, confidential records, including ITAR, PII, HIPAA and PCI-DSS. 
 
