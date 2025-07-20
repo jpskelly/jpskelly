@@ -99,6 +99,7 @@ Bachelor of Science (BS) in Information Technology
 Western Governors University Salt Lake City, UT
 
 ## Current Certifications
+* MS-102
 * SC-300
 * AZ-104
 * AZ-800/AZ801
