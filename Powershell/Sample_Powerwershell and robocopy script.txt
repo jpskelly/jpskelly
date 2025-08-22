@@ -1,0 +1,16 @@
+# Get timestamp for log naming
+$Timestamp = Get-Date -Format "MM-dd-yyyy-HH.mm"
+
+# Define source and destination paths
+$Source = "C:\"
+$Destination = "D:\Temp"
+
+# Define log file path
+$LogFolder = "d:\Robo"
+$LogName = Join-Path $LogFolder "Test_Copy_$Timestamp.log"
+
+# Display start time
+Write-Host "Starting Robocopy at $Timestamp"
+
+# Execute Robocopy (dry run with /l)
+Robocopy $Source $Destination /mir /e /DCOPY:T /copy:DAT /tee /fft /w:1 /r:1 /zb /mt:128 /log:$LogName /xd "System Volume Information" /xd '$recycle.Bin' /xd '$Windows*' /xf "pagefile.sys" /l
